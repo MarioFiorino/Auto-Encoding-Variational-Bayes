@@ -2,4 +2,6 @@
 Auto-Encoding Variational Bayes
 
 
-Report of some experiment
+Report of some experiment:
+
+theory, models used and results
